@@ -11,7 +11,7 @@ I'm looking for an End of Study internship in the Full Stack Development Startin
 </samp> 
 
 
-## 📫 reach me on
+## 📫 Reach me on
 
 [<img src="https://img.icons8.com/color/50/000000/linkedin.png"/>](https://www.linkedin.com/in/redouan-el-khanoussi/)
 [<img src="https://img.icons8.com/fluency/50/000000/twitter.png"/>](https://twitter.com/RedoneN13)
