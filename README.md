@@ -4,9 +4,8 @@
 <img align="right" src="https://github.com/Redouan-El-Khanoussi/Redouan-El-Khanoussi.github.io/blob/master/assets/img/me.png" width="300">
 <samp>
 <p align=”justify” style="text-indent:40px;"> 
-I’m <b>@Redouan-El-Khanoussi</b> a Computer Science Engineering Student Option Software Engineering from ENSAH, Morocco 🇲🇦. 
-I'm a highly motivated person, dynamic, rigorous who loves coding, solving problems. 
-I'm looking for an End of Study internship in the Full Stack Development Starting From February 2022.
+I’m <b>Redouan El Khanoussi</b> a Computer Science Engineering Student Option Software Engineering from ENSAH, Morocco 🇲🇦. 
+I'm a highly motivated person, dynamic, rigorous who loves coding, solving problems.
 </p>
 </samp> 
 
@@ -23,7 +22,7 @@ I'm looking for an End of Study internship in the Full Stack Development Startin
 
 <img src="https://devstickers.com/assets/img/pro/7kaq.png" width="80">
 <img src="https://devstickers.com/assets/img/pro/zl8i.png" width="80">
-<img src="https://img.icons8.com/officel/60/000000/php-logo.png"width="80"/>
+<img src="https://img.icons8.com/officel/60/000000/php-logo.png" width="80"/>
 <img src="https://devstickers.com/assets/img/pro/iqm9.png" width="80">
 <img src="https://devstickers.com/assets/img/pro/8pnd.png" width="80">
 <img src="https://devstickers.com/assets/img/pro/i4eg.png" width="80">
