@@ -14,7 +14,9 @@
     I’m <b>Redouan El Khanoussi</b> a Computer Science Engineering Student Option Software Engineering from ENSAH, Morocco 🇲🇦. 
     I'm a highly motivated person, dynamic, rigorous who loves coding, solving problems.
  </p>
-</samp> 
+</samp>
+
+       I’m currently learning Typescript, Angular, Cloud computing
 
 
 ## Reach me on
@@ -35,7 +37,6 @@
  <img src="https://devstickers.com/assets/img/pro/z30l.png" width="80">
  <img src="https://devstickers.com/assets/img/pro/apiv.png" width="80">
  <img src="https://img.icons8.com/color/60/000000/spring-logo.png" width="80"/>
- <img src="https://devstickers.com/assets/img/cat/angular2.png" width="80"/>
  <img src="https://img.icons8.com/color/60/000000/intellij-idea.png" width="80"/>
  <img src="https://img.icons8.com/office/60/000000/java-eclipse.png" width="80"/>
  <img src="https://devstickers.com/assets/img/pro/nve0.png"  width="80"/>
