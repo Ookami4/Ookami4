@@ -1,14 +1,13 @@
 
 
 <p float="left" align="center">
-  <img align="center" src="https://devstickers.com/assets/img/pro/8bul.png" height="150"/>
+ 
 </p>
 
 
 ## Hello Community
 
-
-<img align="right" src="https://github.com/Redouan-El-Khanoussi/Redouan-El-Khanoussi.github.io/blob/master/assets/img/me.png" width="300">
+<img align="right" src="https://devstickers.com/assets/img/pro/8bul.png" height="300" width="300"/>
 <samp>
  <p align=”justify” style="text-indent:40px;">
     I’m <b>Redouan El Khanoussi</b> a Computer Science Engineering Student Option Software Engineering from ENSAH, Morocco 🇲🇦. 
