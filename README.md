@@ -44,9 +44,9 @@
 #
 
 <p float="left" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Redouan-El-Khanoussi&show_icons=true&count_private=true&theme=github_dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ookami4&show_icons=true&count_private=true&theme=github_dark">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redouan-El-Khanoussi&hide=javascript,css,html,blade,scss,hack,less&theme=github_dark">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ookami4&hide=javascript,css,html,blade,scss,hack,less&theme=github_dark">
   </a>
 </p>
 
