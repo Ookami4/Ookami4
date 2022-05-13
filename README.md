@@ -26,7 +26,7 @@
 #
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ookami4&show_icons=true&count_private=true&theme=github_dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ookami4&show_icons=true&count_private=false&theme=github_dark">
 </p>
 
 #
