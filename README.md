@@ -20,7 +20,7 @@
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ookami4&show_icons=true&count_private=false&theme=github_dark">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ookami4&hide=javascript,css,html,blade,scss,hack,less&theme=github_dark">
+ <img align="right" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ookami4&hide=javascript,css,html,blade,scss,hack,less&theme=github_dark">
 </p>
 
 
